@@ -1,0 +1,36 @@
+body{
+    margin:0;
+}
+.header{
+    padding: 20px;
+    color:white;
+    background-color: lime;
+    font-family: sans-serif;
+    text-align: center;
+}
+a:hover{
+    background-color: red;
+}
+.image{
+    padding: 60px;
+}
+.about{
+    padding: 100px;
+    color: red;
+    background-color: lime;
+    font-family: sans-serif;
+    text-align: center;
+}
+.contact{
+    padding: 70px;
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+}
+.footer{
+    padding: 25px;
+    background-color: lime;
+    color: red;
+    text-align: center;
+    font-family: sans-serif;
+}
